@@ -1,4 +1,4 @@
-# Odin Recipes
+## Odin Recipes
 
 A basic recipe website built as part of [The Odin Project](https://www.theodinproject.com/) Foundations course.
 
